@@ -1,0 +1,11 @@
+.idea/
+__pycache__/
+*.pyc
+pyvenv.cfg
+venv/
+.vscode/
+build/
+*.manifest
+*.nsh
+*.exe
+dist/
