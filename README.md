@@ -1,4 +1,4 @@
-# UPS Autoreport v1.1.0 (Final Build)
+# Autoreport v1.1.0
 #### Build and automate reports with no coding knowledge required!
 
 AutoReport is a report automation software that allows you to escape the tedium of creating Word reports in the Microsoft corporate world, without having any coding knowledge. Automating a report is simple and done in two steps: creating a blank skeleton template for the report, and then define where the data comes from. And it's all done in Excel, no extra tools required.
